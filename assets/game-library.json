@@ -1,0 +1,56 @@
+[
+  {
+    "Title": "Call of Duty: Warzone",
+    "Release Date": "3/10/20",
+    "Genre": "Shooter",
+    "Platforms": "Xbox One, PlayStation 4, PC"
+  },
+  {
+    "Title": "Call of Duty: Modern Warfare",
+    "Release Date": "10/25/19",
+    "Genre": "Shooter",
+    "Platforms": "Xbox One, PlayStation 4, PC"
+  },
+  {
+    "Title": "NBA 2K20",
+    "Release Date": "9/5/19",
+    "Genre": "Sports",
+    "Platforms": "Android, iOS, Nintendo Switch, Xbox One, PC, PlayStation 4"
+  },
+  {
+    "Title": "FIFA 20",
+    "Release Date": "9/27/19",
+    "Genre": "Sports",
+    "Platforms": "Nintendo Switch, Playstation 4, Xbox One, PC"
+  },
+  {
+    "Title": "Madden NFL 20",
+    "Release Date": "9/2/19",
+    "Genre": "Sports",
+    "Platforms": "Xbox One, PC, PlayStation 4"
+  },
+  {
+    "Title": "Rocket League",
+    "Release Date": "7/7/15",
+    "Genre": "Indie",
+    "Platforms": "Linux, macOS, PC, PlayStation 4, Xbox One, Nintendo Switch"
+  },
+  {
+    "Title": "Super Smash Bros. Ultimate",
+    "Release Date": "12/7/18",
+    "Genre": "Fighting",
+    "Platforms": "Nintendo Switch"
+  },
+  {
+    "Title": "Mario Kart 8",
+    "Release Date": "5/29/14",
+    "Genre": "Racing",
+    "Platforms": "Nintendo Switch"
+  },
+  {
+    "Title": "Forza Horizon 4",
+    "Release Date": "10/2/18",
+    "Genre": "Racing",
+    "Platforms": "PC, Xbox One"
+  }
+]
